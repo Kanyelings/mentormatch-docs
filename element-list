@@ -1,0 +1,14 @@
+com.kanyelings.telmah.mentormatchsb
+com.kanyelings.telmah.mentormatchsb.api.controller
+com.kanyelings.telmah.mentormatchsb.api.dto
+com.kanyelings.telmah.mentormatchsb.business.mapper
+com.kanyelings.telmah.mentormatchsb.business.model
+com.kanyelings.telmah.mentormatchsb.business.model.enums
+com.kanyelings.telmah.mentormatchsb.business.service
+com.kanyelings.telmah.mentormatchsb.business.service.impl
+com.kanyelings.telmah.mentormatchsb.business.util
+com.kanyelings.telmah.mentormatchsb.config
+com.kanyelings.telmah.mentormatchsb.data.entity
+com.kanyelings.telmah.mentormatchsb.data.entity.common
+com.kanyelings.telmah.mentormatchsb.data.repository
+com.kanyelings.telmah.mentormatchsb.service.impl
